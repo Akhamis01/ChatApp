@@ -1,3 +1,3 @@
 # ChatApp
 
-Visit this [https://react-chat-app01.netlify.app/](Link) to view the Chat Application
+Visit this [Link](https://react-chat-app01.netlify.app/) to view the Chat Application
