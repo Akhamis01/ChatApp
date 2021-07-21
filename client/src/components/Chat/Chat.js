@@ -9,7 +9,7 @@ import Messages from '../Messages/Messages';
 import './Chat.css';
 
 let socket;
-const ENDPOINT = 'https://react-chat-project1.herokuapp.com/';
+const ENDPOINT = 'localhost:5000';
 
 const Chat = ({ location }) => {
     const [name, setName] = useState('');
